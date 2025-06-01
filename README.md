@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MirzaSarim1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...# 👋 Hi, I’m Mirza Sarim Khalil
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Diffusion models
 
 > *“The best way to predict the future is to invent it.” – Alan Kay*
 
